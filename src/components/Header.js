@@ -14,7 +14,7 @@ export default class Header extends React.Component{
         return(
         <div>
            
-        <h1>Bienvenido {name} </h1>
+        <h1>Bienvenido usuario {name} </h1>
         </div>
         );
     }
